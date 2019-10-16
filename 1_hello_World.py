@@ -40,3 +40,10 @@
 # if = "hello"
 
 # CHALLENGE WRITE A PROGRAM TO COLLECT A USERS NAME AND PRINT IT (INPUT)
+
+
+
+Users_name = input("Please enter your name : ") 
+age = input("Please enter your age : ") 
+
+print("Your name is", Users_name, "and you are", age, "years old")
